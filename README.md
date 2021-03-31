@@ -1,2 +1,2 @@
 # websitepractice
-http://sujal-pandeyy15github.io/coronavirus 
+https://sujal-pandeyy15.github.io/corona-virus/
